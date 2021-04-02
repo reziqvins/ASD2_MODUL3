@@ -1,4 +1,6 @@
-
+//Muhammad Reziq Darusman
+//20090127
+//2B
 package Tugas;
 import java.util.Scanner;
 public class No1{
